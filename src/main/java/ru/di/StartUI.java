@@ -1,4 +1,4 @@
-package ru.example;
+package ru.di;
 
 public class StartUI {
 

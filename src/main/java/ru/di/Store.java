@@ -1,4 +1,4 @@
-package ru.example;
+package ru.di;
 
 import java.util.ArrayList;
 import java.util.List;

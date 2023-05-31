@@ -1,4 +1,4 @@
-package ru.example;
+package ru.di;
 
 import java.lang.reflect.Constructor;
 import java.util.ArrayList;

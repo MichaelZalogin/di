@@ -1,4 +1,4 @@
-package ru.example;
+package ru.di;
 
 import java.util.Scanner;
 
@@ -10,5 +10,4 @@ public class ConsoleInput {
         System.out.print(question);
         return scanner.nextLine();
     }
-
 }
